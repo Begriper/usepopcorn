@@ -4,10 +4,9 @@ A fun React app to browse and rate movies using the OMDb API. Built as part of t
 
 ---
 
-## 🌍 Live Demo
+## 🔗 Live Demo
 
-👉 [View Live on GitHub Pages](https://Begriper.github.io/usepopcorn)  
-_Deployment via GitHub Pages._
+👉 [Check it out on Netlify](https://usepopcorn-web.netlify.app/)
 
 ---
 
